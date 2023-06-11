@@ -1,0 +1,5 @@
+displayName: test123_20230611
+projectKey: test123_20230611
+version: 1.0.0
+modules:
+- name: common
